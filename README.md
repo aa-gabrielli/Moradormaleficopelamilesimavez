@@ -1,24 +1,23 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MELHOR Blog sobre Resident Evil 4!!!!</title>
+    </title>MELHOR Blog sobre Resident Evil 4!!!!</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 </head>
 <body>
 
-    <div class="secao-branca">
+   <div class="secao-branca">
         <header class="cabecalho-perfil">
             <div class="foto-perfil"></div>
             <span class="nome-perfil">@aa.gabriellimelhordetodas</span>
         </header>
 
-        <main class="conteudo-inicial">
+   <main class="conteudo-inicial">
             <h1 class="titulo-blog">MELHOR Blog sobre Resident Evil 4!!!!</h1>
             
-            <article class="post-resumo">
+   <article class="post-resumo">
                 <p>Tipo assim, O-M-G!!! 😱 Se você não jogou Resident Evil 4 de 2005 ainda, você tá vivendo embaixo de uma pedra, na moral! Esse jogo é simplesmente o mais mara de todos os tempos. É babado puro!</p>
                 <p>A história é muito sinistra: o Leon (aquele lindo de morrer, sério, que corte de cabelo é aquele? 😍) vai pra uma vila bizarra na Espanha pra resgatar a filha do presidente que foi sequestrada por uns seitas muito loucos chamados Los Illuminados. Não são zumbis normais, tá miguxos? Eles gritam uns negócios em espanhol e correm atrás de você com foice e motosserra! É de dar tela azul no cérebro de tanto medo!!</p>
                 <p>Gráficos nota 1000, jogabilidade perfeita e muita ação! Alguém me bota num potinho pq eu sou viciada real oficial nesse game! Passava horas no meu PS2 detonando geral! Se joga porque é só capricho! 🎮✨</p>
@@ -26,14 +25,14 @@
         </main>
     </div>
 
-    <div class="secao-escura">
+   <div class="secao-escura">
         <div class="container-titulo-jogo">
             <img src="https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800" alt="Resident Evil 4 Title Placeholder" class="img-titulo-jogo">
         </div>
 
-        <section class="personagens">
+   <section class="personagens">
             
-            <div class="bloco-personagem">
+   <div class="bloco-personagem">
                 <h2 class="titulo-vermelho">Leon S. Kennedy</h2>
                 <div class="flex-personagem">
                     <img src="https://images.unsplash.com/photo-1626785774573-4b799315345d?w=400" alt="Leon" class="img-char">
@@ -41,7 +40,7 @@
                 </div>
             </div>
 
-            <div class="bloco-personagem invertido">
+   <div class="bloco-personagem invertido">
                 <h2 class="titulo-vermelho">Ashley Graham</h2>
                 <div class="flex-personagem">
                     <p>A filha do presidente. Ela passa o jogo inteiro gritando "LEEEON, HELP!", o que irrita um pouco, admito, mas no fundo a gente pega apego. Ela usa uma saia xadrez super na moda dos anos 2000!</p>
@@ -49,7 +48,7 @@
                 </div>
             </div>
 
-            <div class="bloco-personagem">
+  <div class="bloco-personagem">
                 <h2 class="titulo-vermelho">Ada Wong</h2>
                 <div class="flex-personagem">
                     <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400" alt="Ada" class="img-char">
@@ -57,7 +56,7 @@
                 </div>
             </div>
 
-            <div class="bloco-personagem invertido">
+   <div class="bloco-personagem invertido">
                 <h2 class="titulo-vermelho">Luis Serra</h2>
                 <div class="flex-personagem">
                     <p>O pesquisador galanteador que ajuda o Leon na vila. Ele se diz um "Don Juan" e é super carismático, apesar de estar envolvido com coisas bem pesadas da seita. Um aliado inesquecível da jornada.</p>
@@ -65,7 +64,7 @@
                 </div>
             </div>
 
-            <div class="bloco-personagem">
+   <div class="bloco-personagem">
                 <h2 class="titulo-vermelho">Albert Wesker</h2>
                 <div class="flex-personagem">
                     <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400" alt="Wesker" class="img-char">
@@ -73,44 +72,40 @@
                 </div>
             </div>
 
-        </section>
-
-        <section class="opiniao-ashley">
+  </section>
+<section class="opiniao-ashley">
             <h2 class="titulo-vermelho">Opinião Quentinha! 🔥</h2>
             <blockquote>
                 "Gente, papo reto aqui: eu sei que todo mundo reclama que a Ashley é chata e tals por causa dos gritos, mas vamos combinar que ela é super corajosa de aguentar aquele bando de monstros sem nenhuma arma! E o figurino dela é muito patricinha dos anos 2000, eu usaria super na escola!" - <i>Anônimo no Tumblr</i>
             </blockquote>
         </section>
 
-        <footer class="rodape-blog">
+   <footer class="rodape-blog">
             
-            <div class="retangulo-fade"></div>
+   <div class="retangulo-fade"></div>
 
-            <div class="link-wallpaper">
-                <a href="#" target="_blank">> CLIQUE AQUI PARA BAIXAR SEU WALLPAPER DE RE4 <</a>
+   <div class="link-wallpaper">
+         <a href="#" target="_blank">> CLIQUE AQUI PARA BAIXAR SEU WALLPAPER DE RE4 <</a>
             </div>
 
-            <div class="botoes-interacao">
+   <div class="botoes-interacao">
                 <button id="btn-like" class="btn-blog">LIKE (<span id="count-like">0</span>)</button>
                 <button id="btn-dislike" class="btn-blog">DISLIKE (<span id="count-dislike">0</span>)</button>
                 <button id="btn-comentar" class="btn-blog">COMENTAR</button>
             </div>
 
-            <div id="caixa-comentario" class="escondido">
+  <div id="caixa-comentario" class="escondido">
                 <textarea placeholder="Deixe seu recado no meu mural..."></textarea>
                 <button id="btn-enviar">Enviar</button>
             </div>
 
-            <h2 class="texto-final">OBRIGADA POR LER MEU BLOG!!! XOXO ( ˘ ³˘)♥︎</h2>
+  <h2 class="texto-final">OBRIGADA POR LER MEU BLOG!!! XOXO ( ˘ ³˘)♥︎</h2>
         </footer>
     </div>
 
-    <script src="script.js"></script>
+ <script src="script.js"></script>
 </body>
-</html>
 
-
-/* RESET PADRÃO */
 * {
     margin: 0;
     padding: 0;
@@ -122,7 +117,7 @@ body {
     overflow-x: hidden;
 }
 
-/* ==================== SEÇÃO BRANCA (TOPO) ==================== */
+
 .secao-branca {
     background-color: #FFFFFF;
     width: 100%;
@@ -132,7 +127,6 @@ body {
     align-items: center;
 }
 
-/* Cabeçalho do Perfil */
 .cabecalho-perfil {
     background-color: #FFCCDD;
     border: 2px solid #FFB6CF;
@@ -165,7 +159,6 @@ body {
     word-break: break-all;
 }
 
-/* Conteúdo Inicial */
 .conteudo-inicial {
     width: 100%;
     max-width: 600px;
@@ -189,7 +182,6 @@ body {
     margin-bottom: 15px;
 }
 
-/* ==================== SEÇÃO ESCURA (RESIDENT EVIL) ==================== */
 .secao-escura {
     background-color: #04050B;
     color: #E0E0E0;
@@ -215,7 +207,6 @@ body {
     box-shadow: 0 0 15px rgba(255, 0, 0, 0.4);
 }
 
-/* Personagens e Grid Dinâmico */
 .personagens {
     width: 100%;
     max-width: 700px;
@@ -273,7 +264,6 @@ body {
     color: #CCCCCC;
 }
 
-/* ==================== RODAPÉ E INTERATIVIDADE ==================== */
 .rodape-blog {
     width: 100%;
     max-width: 700px;
@@ -292,7 +282,6 @@ body {
     margin-bottom: 25px;
 }
 
-/* Link de Wallpaper */
 .link-wallpaper {
     margin-bottom: 30px;
 }
@@ -310,7 +299,6 @@ body {
     color: #990000;
 }
 
-/* Botões Interativos (Paleta solicitada) */
 .botoes-interacao {
     display: flex;
     gap: 15px;
@@ -333,7 +321,6 @@ body {
     border-color: #FFFFFF;
 }
 
-/* Caixa de Comentário Oculta */
 .escondido {
     display: none;
 }
@@ -404,29 +391,26 @@ document.addEventListener("DOMContentLoaded", function() {
     const btnDislike = document.getElementById("btn-dislike");
     const btnComentar = document.getElementById("btn-comentar");
     
-    const countLike = document.getElementById("count-like");
+   const countLike = document.getElementById("count-like");
     const countDislike = document.getElementById("count-dislike");
     const caixaComentario = document.getElementById("caixa-comentario");
     const btnEnviar = document.getElementById("btn-enviar");
     const txtComentario = document.querySelector("#caixa-comentario textarea");
 
-    // Variáveis para contagem
-    let likes = 0;
+   let likes = 0;
     let dislikes = 0;
 
-    // Evento de Like
-    btnLike.addEventListener("click", function() {
+
+   btnLike.addEventListener("click", function() {
         likes++;
-        countLike.textContent = likes;
-        // Efeito rápido de feedback visual dos anos 2000
+        countLike.textContent = like
         btnLike.style.backgroundColor = "#990000";
         setTimeout(() => {
             btnLike.style.backgroundColor = "#222222";
         }, 150);
     });
 
-    // Evento de Dislike
-    btnDislike.addEventListener("click", function() {
+  btnDislike.addEventListener("click", function() {
         dislikes++;
         countDislike.textContent = dislikes;
         // Efeito rápido de feedback visual
@@ -436,8 +420,8 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 150);
     });
 
-    // Mostrar/Ocultar caixa de comentários ao clicar no botão
-    btnComentar.addEventListener("click", function() {
+    
+  btnComentar.addEventListener("click", function() {
         if (caixaComentario.style.display === "flex") {
             caixaComentario.style.display = "none";
         } else {
@@ -446,8 +430,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 
-    // Ação fictícia de envio do comentário
-    btnEnviar.addEventListener("click", function() {
+   btnEnviar.addEventListener("click", function() {
         if (txtComentario.value.trim() !== "") {
             alert("Babado! Seu comentário foi enviado para aprovação da dona do blog! 😉");
             txtComentario.value = "";

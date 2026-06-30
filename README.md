@@ -1,442 +1,250 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </title>MELHOR Blog sobre Resident Evil 4!!!!</title>
+    <meta name="viewport" content="width=device-width, initial-width=1.0">
+    <title>MELHOR Blog d Resident Evil 4 que existe!11!!</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 </head>
 <body>
+    <div class="fade-out-bg"></div>
 
-   <div class="secao-branca">
-        <header class="cabecalho-perfil">
-            <div class="foto-perfil"></div>
-            <span class="nome-perfil">@aa.gabriellimelhordetodas</span>
-        </header>
+   <div class="blog-container">
+        <h1 class="pixel-title">MELHOR Blog sobre Resident Evil 4!!!!</h1>
 
-   <main class="conteudo-inicial">
-            <h1 class="titulo-blog">MELHOR Blog sobre Resident Evil 4!!!!</h1>
-            
-   <article class="post-resumo">
-                <p>Tipo assim, O-M-G!!! 😱 Se você não jogou Resident Evil 4 de 2005 ainda, você tá vivendo embaixo de uma pedra, na moral! Esse jogo é simplesmente o mais mara de todos os tempos. É babado puro!</p>
-                <p>A história é muito sinistra: o Leon (aquele lindo de morrer, sério, que corte de cabelo é aquele? 😍) vai pra uma vila bizarra na Espanha pra resgatar a filha do presidente que foi sequestrada por uns seitas muito loucos chamados Los Illuminados. Não são zumbis normais, tá miguxos? Eles gritam uns negócios em espanhol e correm atrás de você com foice e motosserra! É de dar tela azul no cérebro de tanto medo!!</p>
-                <p>Gráficos nota 1000, jogabilidade perfeita e muita ação! Alguém me bota num potinho pq eu sou viciada real oficial nesse game! Passava horas no meu PS2 detonando geral! Se joga porque é só capricho! 🎮✨</p>
-            </article>
-        </main>
-    </div>
-
-   <div class="secao-escura">
-        <div class="container-titulo-jogo">
-            <img src="https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800" alt="Resident Evil 4 Title Placeholder" class="img-titulo-jogo">
+   <div class="intro-section">
+            <p>Fala galera do Flogão e do Orkut! XD Tipo assim, RE4 (2005) é muito ROX! O jogo é cabuloso, sinistro demais. A parada é a seguinte: você controla o Leon, que tá muito bolado e deixou de ser aquele policial novato de Raccoon City. Agora o cara é agente do governo, meu!</p>
+            <p>A missão é resgatar a filha do presidente dos EUA que foi sequestrada por uns caras bizarros num vilarejo lá na Europa, onde a galera fala espanhol macabro e solta uns parasitas chamados "Las Plagas". É tiro, porrada e bomba, altas madrugadas jogando no PS2, o gráfico é de cair o queixo, muito irado. Quem não jogou é muito noob, na moral! Pode crer que é o melhor jogo da geração!</p>
         </div>
 
-   <section class="personagens">
+   <div class="title-img-container">
+            <img src="https://via.placeholder.com/600x200/000000/FFFFFF?text=RESIDENT+EVIL+4+LOGO" alt="Logo Resident Evil 4" class="game-logo">
+        </div>
+
+   <div class="dark-zone">
             
-   <div class="bloco-personagem">
-                <h2 class="titulo-vermelho">Leon S. Kennedy</h2>
-                <div class="flex-personagem">
-                    <img src="https://images.unsplash.com/photo-1626785774573-4b799315345d?w=400" alt="Leon" class="img-char">
-                    <p>O agente secreto mais gato do pedaço. Ele sobreviveu a Raccoon City e agora tá com a missão mais perigosa da vida dele. Além de chutar a cara dos "Ganados", ele faz tudo isso sem desmanchar o topete perfeito. Ícone!</p>
+   <div class="character-card">
+                <div class="char-text">
+                    <h2 class="blood-title">Leon S. Kennedy</h2>
+                    <p>O cara mais style do jogo! Leon volta cheio de marra, dando suplex e chute na cara de ganados. A jaqueta de couro dele no começo é muito chave, pena que roubam depois. Ele tá sempre com umas frases de efeito prontas pra soltar, como a clássica "aonde todos foram? pro bingo?" XDD.</p>
                 </div>
+                <img src="https://via.placeholder.com/250/333333/FFFFFF?text=LEON" alt="Leon Kennedy" class="char-img blood-border">
             </div>
 
-   <div class="bloco-personagem invertido">
-                <h2 class="titulo-vermelho">Ashley Graham</h2>
-                <div class="flex-personagem">
-                    <p>A filha do presidente. Ela passa o jogo inteiro gritando "LEEEON, HELP!", o que irrita um pouco, admito, mas no fundo a gente pega apego. Ela usa uma saia xadrez super na moda dos anos 2000!</p>
-                    <img src="https://images.unsplash.com/photo-1594744803329-e58b31de215f?w=400" alt="Ashley" class="img-char">
+   <div class="character-card reverse">
+                <div class="char-text">
+                    <h2 class="blood-title">Ashley Graham</h2>
+                    <p>A VIP da nossa missão. A filha do "presida". Ela é a clássica donzela em perigo, mas ajuda a abrir umas portas por aí. Só precisa tomar cuidado pra ela não ser levada embora, senão é Game Over na certa e aquele gritão no seu ouvido!</p>
                 </div>
+                <img src="https://via.placeholder.com/250/333333/FFFFFF?text=ASHLEY" alt="Ashley Graham" class="char-img blood-border">
             </div>
 
-  <div class="bloco-personagem">
-                <h2 class="titulo-vermelho">Ada Wong</h2>
-                <div class="flex-personagem">
-                    <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400" alt="Ada" class="img-char">
-                    <p>Misteriosa, perigosa e mega estilosa de vestido vermelho em plena missão secreta. Ninguém sabe direito de que lado ela tá, mas o clima entre ela e o Leon é de soltar faíscas. Diva absoluta do jogo.</p>
+   <div class="character-card">
+                <div class="char-text">
+                    <h2 class="blood-title">Ada Wong</h2>
+                    <p>Misteriosa e cabulosa! A Ada aparece do nada com aquele vestido vermelho matador (literalmente). Ela tem a própria agenda oculta e cruza o caminho do Leon o tempo todo, dando aquela ajudinha marota de longe.</p>
                 </div>
+                <img src="https://via.placeholder.com/250/333333/FFFFFF?text=ADA" alt="Ada Wong" class="char-img blood-border">
             </div>
 
-   <div class="bloco-personagem invertido">
-                <h2 class="titulo-vermelho">Luis Serra</h2>
-                <div class="flex-personagem">
-                    <p>O pesquisador galanteador que ajuda o Leon na vila. Ele se diz um "Don Juan" e é super carismático, apesar de estar envolvido com coisas bem pesadas da seita. Um aliado inesquecível da jornada.</p>
-                    <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400" alt="Luis" class="img-char">
+   <div class="character-card reverse">
+                <div class="char-text">
+                    <h2 class="blood-title">Luis Sera</h2>
+                    <p>Um espanhol muito louco e malandro que cruza nosso caminho. Ele era pesquisador lá do vilarejo e acaba ajudando o Leon. O cara tem mó pinta de galã de novela e manda muito bem na Red9.</p>
                 </div>
+                <img src="https://via.placeholder.com/250/333333/FFFFFF?text=LUIS" alt="Luis Sera" class="char-img blood-border">
             </div>
 
-   <div class="bloco-personagem">
-                <h2 class="titulo-vermelho">Albert Wesker</h2>
-                <div class="flex-personagem">
-                    <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400" alt="Wesker" class="img-char">
-                    <p>O grande vilão que fica manipulando tudo das sombras usando óculos escuros até de noite. Ele quer roubar as amostras do parasita Las Plagas para seus próprios planos malignos de dominação mundial.</p>
+   <div class="character-card">
+                <div class="char-text">
+                    <h2 class="blood-title">Albert Wesker</h2>
+                    <p>O vilão supremo da franquia, sempre operando nas sombras com aquele óculos escuro estiloso (mesmo no escuro!). Ele é quem tá puxando os pauzinhos por trás das ações da Ada. Sinistro ao extremo.</p>
                 </div>
+                <img src="https://via.placeholder.com/250/333333/FFFFFF?text=WESKER" alt="Albert Wesker" class="char-img blood-border">
             </div>
 
-  </section>
-<section class="opiniao-ashley">
-            <h2 class="titulo-vermelho">Opinião Quentinha! 🔥</h2>
-            <blockquote>
-                "Gente, papo reto aqui: eu sei que todo mundo reclama que a Ashley é chata e tals por causa dos gritos, mas vamos combinar que ela é super corajosa de aguentar aquele bando de monstros sem nenhuma arma! E o figurino dela é muito patricinha dos anos 2000, eu usaria super na escola!" - <i>Anônimo no Tumblr</i>
-            </blockquote>
-        </section>
-
-   <footer class="rodape-blog">
-            
-   <div class="retangulo-fade"></div>
-
-   <div class="link-wallpaper">
-         <a href="#" target="_blank">> CLIQUE AQUI PARA BAIXAR SEU WALLPAPER DE RE4 <</a>
+   <div class="opinion-box">
+                <p><strong>Minha opinião:</strong> Putz, a Ashley... Olha, a mina é essencial, mas às vezes dá uma raiva quando ela grita "LEOOON, HEEEELP!". Tem que ficar protegendo ela toda hora, e gasta muita munição! Mas, pô, ela até que é guerreira em algumas partes, e aquela armadura especial que a gente destrava zerando o jogo é a salvação, slc. Deixa ela invencível, muito apelão! ... isso é o que eu diria se eu não fosse A MAIOR FÃ DE ASHLEY GRAHAM! parte desse hate que ela recebe da fandom é MTOO desnecessário, galera, da uma relaxada LOOLL ;D. ela é super estilosa e, se eu fosse a, gritaria ainda mais! (ainda mais quando meu salvador é um gatinho igual o Leonrsrs...) </p>
             </div>
 
-   <div class="botoes-interacao">
-                <button id="btn-like" class="btn-blog">LIKE (<span id="count-like">0</span>)</button>
-                <button id="btn-dislike" class="btn-blog">DISLIKE (<span id="count-dislike">0</span>)</button>
-                <button id="btn-comentar" class="btn-blog">COMENTAR</button>
+   <div class="action-buttons">
+                <button id="like-btn" class="btn">Like</button>
+                <button id="dislike-btn" class="btn">Deslike</button>
+                <button id="comment-btn" class="btn">Comentar</button>
             </div>
 
-  <div id="caixa-comentario" class="escondido">
-                <textarea placeholder="Deixe seu recado no meu mural..."></textarea>
-                <button id="btn-enviar">Enviar</button>
-            </div>
-
-  <h2 class="texto-final">OBRIGADA POR LER MEU BLOG!!! XOXO ( ˘ ³˘)♥︎</h2>
-        </footer>
+   <h2 class="final-text">OBRIGADA POR LER MEU BLOG!!! XOXO ( ˘ ³˘)♥︎</h2>
+        </div>
     </div>
 
- <script src="script.js"></script>
 </body>
+</html>
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+:root {
+    --blood-red: #8A0303;
+    --dark-zone-bg: #04050B;
+    --btn-gray: #333333;
+    --text-color: #e0e0e0;
 }
 
 body {
-    font-family: Arial, sans-serif;
-    overflow-x: hidden;
-}
-
-
-.secao-branca {
-    background-color: #FFFFFF;
-    width: 100%;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.cabecalho-perfil {
-    background-color: #FFCCDD;
-    border: 2px solid #FFB6CF;
-    width: 100%;
-    max-width: 600px;
-    padding: 15px;
-    display: flex;
-    align-items: center;
-    border-radius: 8px;
-    margin-top: 10px;
-}
-
-.foto-perfil {
-    width: 60px;
-    height: 60px;
-    background-color: #FFF;
-    border-radius: 50%;
-    /* Imagem demonstrativa de rosa */
-    background-image: url('https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=100');
+    margin: 0;
+    padding: 0;
+    font-family: 'Verdana', sans-serif;
+    background: url('https://images.unsplash.com/photo-1618331835717-801e976710b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') no-repeat center center fixed;
     background-size: cover;
-    background-position: center;
-    border: 2px solid #FFB6CF;
-    margin-right: 15px;
+    color: #fff;
 }
 
-.nome-perfil {
-    font-family: 'Press Start 2P', monospace;
-    font-size: 11px;
-    color: #4A4A4A;
-    word-break: break-all;
-}
-
-.conteudo-inicial {
+.fade-out-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
-    max-width: 600px;
-    margin-top: 25px;
+    height: 100%; 
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.1) 100%);
+    z-index: -1; 
+}
+
+.blog-container {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: rgba(20, 20, 20, 0.85); /* Fundo levemente transparente pro topo */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.8);
+}
+
+.pixel-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.5rem;
     text-align: center;
+    padding: 30px 20px;
+    margin: 0;
+    color: #fff;
+    text-shadow: 3px 3px var(--blood-red);
 }
 
-.titulo-blog {
-    font-family: 'Press Start 2P', monospace;
-    font-size: 14px;
-    color: #333;
-    line-height: 1.5;
-    margin-bottom: 25px;
-}
-
-.post-resumo p {
-    font-size: 16px;
+.intro-section {
+    padding: 20px 40px;
     line-height: 1.6;
-    color: #444;
-    text-align: left;
-    margin-bottom: 15px;
+    font-size: 1.1rem;
 }
 
-.secao-escura {
-    background-color: #04050B;
-    color: #E0E0E0;
-    width: 100%;
-    padding: 40px 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.container-titulo-jogo {
-    width: 100%;
-    max-width: 700px;
+.title-img-container {
     text-align: center;
+    padding: 20px 0;
+}
+
+.game-logo {
+    max-width: 90%;
+    height: auto;
+    border: 2px solid #fff;
+}
+
+.dark-zone {
+    background-color: var(--dark-zone-bg);
+    padding: 40px;
+}
+
+.blood-title {
+    color: var(--blood-red);
+    font-family: 'Georgia', serif;
+    font-style: italic;
+    border-bottom: 1px solid var(--blood-red);
+    padding-bottom: 5px;
+}
+
+.blood-border {
+    border: 4px solid var(--blood-red);
+    border-radius: 4px;
+}
+
+.character-card {
+    display: flex;
+    align-items: center;
+    gap: 30px;
     margin-bottom: 40px;
 }
 
-.img-titulo-jogo {
-    width: 100%;
-    max-height: 250px;
-    object-fit: cover;
-    border: 3px solid #7A0000;
-    box-shadow: 0 0 15px rgba(255, 0, 0, 0.4);
-}
-
-.personagens {
-    width: 100%;
-    max-width: 700px;
-}
-
-.bloco-personagem {
-    margin-bottom: 45px;
-}
-
-.titulo-vermelho {
-    font-family: 'Press Start 2P', monospace;
-    color: #990000;
-    font-size: 16px;
-    margin-bottom: 15px;
-    text-shadow: 2px 2px 0px #000;
-}
-
-.flex-personagem {
-    display: flex;
-    gap: 20px;
-    align-items: center;
-}
-
-.img-char {
-    width: 140px;
-    height: 140px;
-    object-fit: cover;
-    border: 4px solid #990000; /* Borda Vermelho Sangue */
-    flex-shrink: 0;
-}
-
-.flex-personagem p {
-    font-size: 15px;
-    line-height: 1.5;
-}
-
-/* Alternância de ordem para dinamismo */
-.bloco-personagem.invertido .flex-personagem {
+.character-card.reverse {
     flex-direction: row-reverse;
 }
 
-/* Seção de Opinião */
-.opiniao-ashley {
-    width: 100%;
-    max-width: 700px;
-    margin: 20px 0 50px 0;
-    border-left: 4px solid #990000;
-    padding-left: 15px;
+.char-text {
+    flex: 1;
+    line-height: 1.5;
 }
 
-.opiniao-ashley blockquote {
+.char-img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.opinion-box {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-left: 5px solid var(--blood-red);
+    padding: 15px 25px;
+    margin: 40px 0;
     font-style: italic;
-    font-size: 15px;
-    line-height: 1.6;
-    color: #CCCCCC;
+    color: #ccc;
 }
 
-.rodape-blog {
-    width: 100%;
-    max-width: 700px;
+.action-buttons {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    position: relative;
-    padding-top: 40px;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px 0;
 }
 
-/* Retângulo Preto com Efeito Fade-Out */
-.retangulo-fade {
-    width: 100%;
-    height: 40px;
-    background: linear-gradient(to bottom, #000000, transparent);
-    margin-bottom: 25px;
-}
-
-.link-wallpaper {
-    margin-bottom: 30px;
-}
-
-.link-wallpaper a {
-    color: #FFFFFF;
-    text-decoration: none;
-    font-size: 12px;
-    font-weight: bold;
-    letter-spacing: 1px;
-    transition: color 0.3s;
-}
-
-.link-wallpaper a:hover {
-    color: #990000;
-}
-
-.botoes-interacao {
-    display: flex;
-    gap: 15px;
-    margin-bottom: 30px;
-}
-
-.btn-blog {
-    background-color: #222222;
-    color: #FFFFFF;
-    border: 2px solid #555555;
-    padding: 10px 15px;
-    font-family: sans-serif;
+.btn {
+    background-color: var(--btn-gray);
+    color: #fff;
+    border: 2px solid #000;
+    padding: 10px 25px;
     font-weight: bold;
     cursor: pointer;
-    transition: all 0.2s;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
 }
 
-.btn-blog:hover {
-    background-color: #990000;
-    border-color: #FFFFFF;
+.btn:hover {
+    background-color: var(--blood-red);
+    color: #fff;
+    border-color: #fff;
 }
 
-.escondido {
-    display: none;
-}
-
-#caixa-comentario {
-    width: 100%;
-    max-width: 500px;
-    margin-bottom: 40px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-#caixa-comentario textarea {
-    width: 100%;
-    height: 80px;
-    background-color: #111;
-    color: #FFF;
-    border: 1px solid #990000;
-    padding: 10px;
-    font-family: Arial, sans-serif;
-    resize: none;
-}
-
-#caixa-comentario button {
-    align-self: flex-end;
-    background-color: #FFF;
-    color: #000;
-    border: none;
-    padding: 5px 15px;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-#caixa-comentario button:hover {
-    background-color: #990000;
-    color: #FFF;
-}
-
-/* Escrita Final Magnânima */
-.texto-final {
-    font-family: 'Press Start 2P', monospace;
-    font-size: 18px;
-    color: #FFFFFF;
+.final-text {
     text-align: center;
-    line-height: 1.8;
-    margin-top: 20px;
-    text-shadow: 3px 3px 0px #990000;
+    font-size: 2rem;
+    color: #fff;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: 'Verdana', sans-serif;
+    text-shadow: 2px 2px var(--blood-red);
 }
 
-/* Responsividade Básica para Celulares */
-@media (max-width: 600px) {
-    .flex-personagem {
-        flex-direction: column !important;
-        text-align: center;
-    }
-    .titulo-blog {
-        font-size: 11px;
-    }
-    .texto-final {
-        font-size: 12px;
-    }
-}
+// Selecionando os botões da página
+const likeBtn = document.getElementById('like-btn');
+const dislikeBtn = document.getElementById('dislike-btn');
+const commentBtn = document.getElementById('comment-btn');
 
-document.addEventListener("DOMContentLoaded", function() {
-    // Seleção de elementos do DOM
-    const btnLike = document.getElementById("btn-like");
-    const btnDislike = document.getElementById("btn-dislike");
-    const btnComentar = document.getElementById("btn-comentar");
-    
-   const countLike = document.getElementById("count-like");
-    const countDislike = document.getElementById("count-dislike");
-    const caixaComentario = document.getElementById("caixa-comentario");
-    const btnEnviar = document.getElementById("btn-enviar");
-    const txtComentario = document.querySelector("#caixa-comentario textarea");
-
-   let likes = 0;
-    let dislikes = 0;
-
-
-   btnLike.addEventListener("click", function() {
-        likes++;
-        countLike.textContent = like
-        btnLike.style.backgroundColor = "#990000";
-        setTimeout(() => {
-            btnLike.style.backgroundColor = "#222222";
-        }, 150);
-    });
-
-  btnDislike.addEventListener("click", function() {
-        dislikes++;
-        countDislike.textContent = dislikes;
-        // Efeito rápido de feedback visual
-        btnDislike.style.backgroundColor = "#555555";
-        setTimeout(() => {
-            btnDislike.style.backgroundColor = "#222222";
-        }, 150);
-    });
-
-    
-  btnComentar.addEventListener("click", function() {
-        if (caixaComentario.style.display === "flex") {
-            caixaComentario.style.display = "none";
-        } else {
-            caixaComentario.style.display = "flex";
-            txtComentario.focus();
-        }
-    });
-
-   btnEnviar.addEventListener("click", function() {
-        if (txtComentario.value.trim() !== "") {
-            alert("Babado! Seu comentário foi enviado para aprovação da dona do blog! 😉");
-            txtComentario.value = "";
-            caixaComentario.style.display = "none";
-        } else {
-            alert("Escreve alguma coisa aí né, miguxo(a)!");
-        }
-    });
+likeBtn.addEventListener('click', () => {
+    alert('Você deu Like! Muito ROX! ( ˘ ³˘)♥︎');
+    likeBtn.style.backgroundColor = '#8A0303';
+    likeBtn.innerText = 'Liked!';
 });
+
+dislikeBtn.addEventListener('click', () => {
+    alert('Que noob lolz... Deslike registrado. :(');
+});
+
+commentBtn.addEventListener('click', () => {
+    let comment = prompt('Deixe seu scrap na página (Caixa de comentários):');
+    if(comment) {
+        alert('Seu comentário: "' + comment + '" foi enviado para a dona do Flogão!');
+    }
+});
+
